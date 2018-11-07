@@ -1,0 +1,5 @@
+[book]
+authors = ["dlee67"]
+multilingual = false
+src = "src"
+title = "Holochain-Rust-Tutorial"
