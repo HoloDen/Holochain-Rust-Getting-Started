@@ -2,6 +2,4 @@
 
 To view the book, install cargo and Rust, then...
 
-'''
-mdbook build --open
-'''
+`mdbook build --open`
